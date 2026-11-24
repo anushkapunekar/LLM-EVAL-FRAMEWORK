@@ -1,14 +1,14 @@
 [
   {
-    "question": "What is Python",
+    "question": "What is Python?",
     "expected": "Python is a programming language used for development and AI"
   },
   {
-    "question": "What is RAG",
+    "question": "What is RAG?",
     "expected": "RAG combines retrieval with generation in AI systems"
   },
   {
-    "question": "What is FastAPI",
+    "question": "What is FastAPI?",
     "expected": "FastAPI is a Python framework for building APIs"
   }
 ]
